@@ -38,3 +38,6 @@ class LethLib {
 }
 
 const LL = new LethLib();
+
+  // Klass nomlarini yuboramiz
+LL.setupModal('.k-btn', '.k-modal', '.k-close', '.k-input');
